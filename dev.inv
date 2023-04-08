@@ -1,2 +1,2 @@
-192.168.29.6
-192.168.29.36
+192.168.29.6 ansible_user=devops
+192.168.29.36 ansible_user=devops
